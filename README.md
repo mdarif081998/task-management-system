@@ -91,4 +91,4 @@ This is a simple task management system with user authentication, Password Chang
 6.	Help Page - For help and documentation.
 
 
-[Download the complete Documentation along with screenshots of running application by clicking here](https://docs.google.com/document/d/1-6GiSnZB-IH59R9HXpa4DI3Hov2CbgVp/edit?usp=sharing&ouid=105982460380715018391&rtpof=true&sd=true)
+[Download the complete Documentation along with screenshots of running application](https://docs.google.com/document/d/1-6GiSnZB-IH59R9HXpa4DI3Hov2CbgVp/edit?usp=sharing&ouid=105982460380715018391&rtpof=true&sd=true)
