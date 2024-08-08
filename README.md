@@ -27,6 +27,8 @@ This is a simple task management system with user authentication, Password Chang
 
 6. Start the frontend with `npm start`.
 
+7. access this url http://localhost:3000 in browser to use the application.
+ 
 
 ## Project Overview ##
 
@@ -88,3 +90,5 @@ This is a simple task management system with user authentication, Password Chang
 5.	User Profile Page - For managing user account details.
 6.	Help Page - For help and documentation.
 
+
+[Download the complete Documentation along with screenshots of running application by clicking here](https://docs.google.com/document/d/1-6GiSnZB-IH59R9HXpa4DI3Hov2CbgVp/edit?usp=sharing&ouid=105982460380715018391&rtpof=true&sd=true)
