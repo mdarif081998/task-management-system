@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple task management system with user authentication, Password Change, Forgot password, task categorization, prioritisation, task assignment and automatic Email alerts for pending tasks on dialy basis features.
+This is a simple task management system with user authentication, Password Change, task categorization, prioritisation, task assignment and automatic Email alerts for pending tasks on dialy basis features.
 
 ## Setup
 
