@@ -1,0 +1,24 @@
+.help-container {
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .help-container h2 {
+    text-align: center;
+  }
+  
+  .help-container section {
+    margin-bottom: 20px;
+  }
+  
+  .help-container h3 {
+    margin-top: 0;
+  }
+  
+  .help-container a {
+    color: #007bff;
+  }
+  

@@ -1,0 +1,21 @@
+.navbar {
+    display: flow-root;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #007bff;
+    width: 100%;
+  }
+  
+  .navbar a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  
+  .navbar.button {
+    align-items: end;
+  }

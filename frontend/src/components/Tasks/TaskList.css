@@ -1,0 +1,68 @@
+.task-list-container {
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .filters {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .filter-input,
+  .filter-select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .task-list {
+    
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .task-item {
+    background-color: rgb(240, 237, 237);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 30px;
+  }
+  
+  .task-item h3 {
+    margin: 0;
+  }
+  
+  .task-status {
+    font-weight: bold;
+  }
+  
+  .task-status.pending {
+    color: orange;
+  }
+  
+  .task-status.in-progress {
+    color: blue;
+  }
+  
+  .task-status.completed {
+    color: green;
+  }
+  
+  .task-footer {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 300px;
+    padding-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+
+  #right-item {
+    padding-left: 80px;
+  }
+
+  
